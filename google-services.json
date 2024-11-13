@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905975084410",
+    "firebase_url": "https://chit-chat-zyrli5-default-rtdb.firebaseio.com",
+    "project_id": "chit-chat-zyrli5",
+    "storage_bucket": "chit-chat-zyrli5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905975084410:android:aec1cc3dda49037a9712c3",
+        "android_client_info": {
+          "package_name": "com.example.tasteAdminorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905975084410-5io7k1s5a69d8pong3ri2fmkplet3eeb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasteAdminorder",
+            "certificate_hash": "bb9788c00c27898f1da4ac537f9040db8f8d079c"
+          }
+        },
+        {
+          "client_id": "905975084410-r3p01rsm7mr951ls0qgv0oe4hcj36she.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIgf_8LM0lN2NJgoi3WGPDjcIHDgIFw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905975084410-r3p01rsm7mr951ls0qgv0oe4hcj36she.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
